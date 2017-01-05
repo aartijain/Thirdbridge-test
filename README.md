@@ -33,7 +33,7 @@ $ php script.php data/file.yml
 or
 
 ```
-$ php script.php --input="data/file.xml" --output="results/result.txt"
+$ php script.php input="data/file.xml" output="results/result.txt"
 
 # creates results/result.txt and puts a number 900 as a content
 ```
